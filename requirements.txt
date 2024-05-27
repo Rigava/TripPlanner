@@ -1,0 +1,5 @@
+crewai==0.10.0
+langchain-google-genai
+unstructured==0.9.2
+altair<5
+langchain
